@@ -1,0 +1,36 @@
+doctype html
+html
+    head
+        title FitRevolt - Login
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+    body
+        .container.mt-5
+            .row.justify-content-center
+                .col-6
+                    .card.bg-greyish
+                        .card-body
+                            h5.card-title FitRevolt - Login
+                            form(action="/login", method="POST")
+                                .mb-3
+                                    label(for="username", class="form-label") Username:
+                                    input(type="text", id="username", name="username", class="form-control", required)
+                                .mb-3
+                                    label(for="password", class="form-label") Password:
+                                    input(type="password", id="password", name="password", class="form-control", required)
+                                button(type="submit", class="btn btn-custom") Login
+
+                            // Hidden alert
+                            if showAlert
+                                .alert.alert-danger.alert-dismissible.fade.show(role="alert")
+                                    | #{alertMessage}
+                                    button.close(type="button", data-bs-dismiss="alert", aria-label="Close")
+                                        span(aria-hidden="true") &times;
+
+                            hr
+                            .text-center
+                                p.mb-0 Don't have an account?
+                                a(href="/register" class="btn btn-custom btn-impact") Register here
+        footer.text-center.mt-5.btn-footer
+            p.btn-impact
+                a(href="/workouts/profile") FitRevolt

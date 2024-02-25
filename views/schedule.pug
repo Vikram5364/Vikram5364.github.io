@@ -1,0 +1,35 @@
+doctype html
+html
+    head
+        title FitRevolt - Login
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+        link(rel='stylesheet', href='https://unpkg.com/fullcalendar@5.10.1/main.min.css')
+        script(src="/javascripts/dom.js")
+        script(src='https://unpkg.com/fullcalendar@5.10.1/main.min.js')
+        script(src='https://code.jquery.com/jquery-3.3.1.slim.min.js')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js')
+        script(src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js')
+    body
+        .container.mt-5
+            .row.justify-content-center
+                .col-6
+                    .card.bg-greyish
+                        .card-body
+                            div(id='calendar')
+                                script.
+                                    document.addEventListener('DOMContentLoaded', function() {
+                                        var calendarEl = document.getElementById('calendar');
+                                        var calendar = new FullCalendar.Calendar(calendarEl, {
+                                            themeSystem: 'bootstrap',
+                                            initialView: 'dayGridMonth',
+                                            events: !{JSON.stringify(events)}
+                                        });
+                                        console.log(calendar); // Log the calendar
+                                        calendar.render();
+                                    });
+                            div.button-container
+                                a.btn.btn-custom(href='/workouts/start', id='workout-start') Start Workout
+        footer.text-center.mt-5.btn-footer
+            p.btn-impact
+                a(href="/workouts/profile") FitRevolt

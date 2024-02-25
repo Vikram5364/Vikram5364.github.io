@@ -1,0 +1,41 @@
+doctype html
+html
+    head
+        title FitRevolt - Login
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+    body
+        .container.mt-5
+            .row.justify-content-center
+                .col-6
+                    .card.bg-greyish
+                        .card-body
+                            h5.card-title User Input - BMI
+                                form(action="inputs/bmi", method="POST")
+                                    .form-group
+                                        label(for='age') Age
+                                        select.form-control(name="age" id="age")
+                                            each val in Array.from({length: 100}, (_, i) => i + 1)
+                                                option(value=val) #{val}
+                                    .form-group
+                                        label(for='height') Height (in cm)
+                                        select.form-control(name="height" id="height")
+                                            each val in Array.from({length: 250}, (_, i) => i + 1)
+                                                option(value=val) #{val} cm
+                                    .form-group
+                                        label(for='weight') Weight (in kgs)
+                                        select.form-control(name="weight" id="weight")
+                                            each val in Array.from({length: 200}, (_, i) => i + 1)
+                                                option(value=val) #{val} kg
+                                    button.btn.btn-custom(type='submit') Submit
+
+                                // Hidden alert
+                                if showAlert
+                                    .alert.alert-success.alert-dismissible.fade.show(role="alert")
+                                        | #{alertMessage}
+                                        button.close(type="button", data-bs-dismiss="alert", aria-label="Close")
+                                            span(aria-hidden="true") &times;
+
+        footer.text-center.mt-5.btn-footer
+            p.btn-impact
+                a(href="/workouts/profile") FitRevolt

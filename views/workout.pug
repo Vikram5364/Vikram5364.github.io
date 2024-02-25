@@ -1,0 +1,27 @@
+doctype html
+html
+    head
+        title FitRevolt - Login
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+        script(src="/javascripts/dom.js")
+        script(src='https://code.jquery.com/jquery-3.3.1.slim.min.js')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js')
+        script(src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js')
+    body
+        .container.mt-5
+            .row.justify-content-center
+                .col-6
+                    .card.bg-greyish
+                        .card-body
+                            div.video-container
+                                iframe(src=videoUrl frameborder='0' allowfullscreen)
+                            div.button-container
+                                form(action='/workouts/complete', method='post')
+                                    input(type='hidden', name='level', value=workoutLevel)
+                                    input(type='hidden', name='progress', value=workoutProgress + 1)
+                                    button(type="submit", class="btn btn-custom") Complete Workout
+
+        footer.text-center.mt-5.btn-footer
+                    p.btn-impact
+                        a(href="/workouts/profile") FitRevolt

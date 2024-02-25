@@ -1,0 +1,47 @@
+doctype html
+html
+    head
+        title FitRevolt - Register
+        link(rel="stylesheet", href="/stylesheets/style.css")
+        link(rel="stylesheet", href="/stylesheets/bootstrap.min.css")
+        script(src="/javascripts/validation.js")
+    body
+        .container.mt-5
+            .row.justify-content-center
+                .col-6
+                    .card.bg-greyish
+                        .card-body
+                            h5.card-title FitRevolt - Register
+                            form(action="/register", method="POST", onsubmit="return validateForm();")
+                                .mb-3
+                                    label(for="firstname", class="form-label") First Name:
+                                    input(type="text", id="firstname", name="firstname", class="form-control", required)
+                                .mb-3
+                                    label(for="lastname", class="form-label") Last Name:
+                                    input(type="text", id="lastname", name="lastname", class="form-control", required)
+                                .mb-3
+                                    label(for="username", class="form-label") Username:
+                                    input(type="text", id="username", name="username", class="form-control", required)
+                                .mb-3
+                                    label(for="password", class="form-label") Password:
+                                    input(type="password", id="password", name="password", class="form-control", required)
+                                .mb-3
+                                    label(for="confirmPassword", class="form-label") Confirm Password:
+                                    input(type="password", id="confirmPassword", name="confirmPassword", class="form-control", required)
+                                button(type="submit", class="btn btn-custom") Register
+
+                            // Hidden alert
+                            if showAlert
+                                .alert.alert-danger.alert-dismissible.fade.show(role="alert")
+                                    | #{alertMessage}
+                                    button.close(type="button", data-dismiss="alert")
+                                        span &times;
+
+
+                        hr
+                        .text-center
+                            p.mb-0 Already have an account?
+                            a(href="/" class="btn btn-custom btn-impact") Login here
+        footer.text-center.mt-5.btn-footer
+            p.btn-impact
+                a(href="/workouts/profile") FitRevolt

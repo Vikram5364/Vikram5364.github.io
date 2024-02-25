@@ -1,0 +1,66 @@
+body {
+  background-color: #121212;
+  color: white;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: black;
+}
+
+.nav-tabs .nav-link {
+    color: #FA6800;
+}
+
+.bg-greyish {
+  background-color: #f0f0f0;
+}
+
+.btn-custom {
+  background-color: #FA6800;
+  border-color: #FA6800;
+  display: block;
+  margin: 0 auto;
+  color: white;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.btn-footer {
+  background-color: #FA6800;
+  border-color: #FA6800;
+  color: white; /* Text color */
+  padding: 10px 20px; /* Padding for better appearance */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.btn-impact {
+  font-family: Impact, sans-serif; /* Setting the font family to Impact */
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,954 @@
+{"level":"info","message":{},"timestamp":"2024-02-25T11:54:42.231Z"}
+{"level":"info","message":{},"timestamp":"2024-02-25T11:58:36.655Z"}
+{"level":"info","message":{},"timestamp":"2024-02-25T12:01:32.593Z"}
+{"level":"info","message":{},"timestamp":"2024-02-25T12:05:40.155Z"}
+{"level":"info","message":{},"timestamp":"2024-02-25T12:07:34.531Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:13:19.078Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:14:21.761Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.767Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:14:21.773Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.769Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.769Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.770Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.770Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.771Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.771Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.771Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.771Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.771Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.772Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:14:21.773Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:26:04.871Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.875Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:26:04.890Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.879Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.881Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.881Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.887Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.887Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.887Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.888Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.888Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.888Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.889Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.889Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.889Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.889Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.889Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.889Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.890Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.890Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:26:04.890Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:30:50.096Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.100Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:30:50.110Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.102Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.103Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.106Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.106Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.106Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.107Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.107Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.107Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.108Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.108Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.108Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.109Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.109Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.109Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.109Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.109Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.109Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:30:50.110Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:34:11.141Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.145Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:34:11.155Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.147Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.148Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.149Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.149Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.150Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.150Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.151Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.151Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.151Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.152Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.153Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.153Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.153Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.154Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.154Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.154Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.154Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.154Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.154Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:11.154Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:34:55.247Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.252Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:34:55.266Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.255Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.256Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.258Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.258Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.259Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.262Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.263Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.263Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.263Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.264Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.264Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.265Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.265Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.265Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.265Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.265Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.265Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.266Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.266Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:34:55.266Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:37:54.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.866Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:37:54.876Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.870Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.871Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.872Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.872Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.872Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.872Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.873Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.873Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.873Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.873Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.874Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.874Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.874Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.874Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.874Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.875Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.875Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.875Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.875Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:37:54.875Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:39:25.020Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.028Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:39:25.039Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.031Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.032Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.033Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.033Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.034Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.034Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.034Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.034Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.035Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.035Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.037Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.037Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.038Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.038Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.038Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.038Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.038Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.039Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.039Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:39:25.039Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:45:38.443Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.450Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:45:38.461Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.454Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.455Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.456Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.456Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.456Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.457Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.457Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.457Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.458Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.460Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.460Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.460Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.460Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.460Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.461Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.461Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.461Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.461Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.461Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:45:38.461Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:48:16.562Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.564Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:48:16.574Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.567Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.567Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.568Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.569Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.570Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.570Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.570Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.571Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.571Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.572Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.572Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.572Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.572Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.573Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.573Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.573Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.573Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.573Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.574Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:48:16.574Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:51:33.784Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.790Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:51:33.802Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.793Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.795Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.795Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.795Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.796Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.796Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.796Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.797Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.798Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.798Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.798Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.799Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.799Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.799Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.799Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.800Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.800Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.802Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.802Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:51:33.802Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:55:21.048Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.052Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:55:21.067Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.057Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.058Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.058Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.058Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.059Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.059Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.059Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.059Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.060Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.060Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.061Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.061Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.061Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.061Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.062Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.062Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.062Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.062Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.062Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:21.066Z"}
+{"level":"info","message":{"level":"Beginner"},"timestamp":"2024-02-25T12:55:58.578Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.581Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T12:55:58.588Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.583Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.584Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.584Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.584Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.585Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.585Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.585Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.585Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.586Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.586Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.586Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.586Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.586Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.587Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.587Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.587Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.587Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.587Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.587Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T12:55:58.588Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = undefined;","timestamp":"2024-02-25T15:02:34.725Z"}
+{"code":"ER_BAD_FIELD_ERROR","errno":1054,"level":"error","message":"Error executing SQL query: Unknown column 'undefined' in 'where clause'","sql":"SELECT * FROM workouts WHERE username = undefined;","sqlMessage":"Unknown column 'undefined' in 'where clause'","sqlState":"42S22","stack":"Error: Unknown column 'undefined' in 'where clause'\n    at Packet.asError (/Users/I530451/Desktop/PERSONAL/fitrevolt/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at Query.execute (/Users/I530451/Desktop/PERSONAL/fitrevolt/node_modules/mysql2/lib/commands/command.js:29:26)\n    at Connection.handlePacket (/Users/I530451/Desktop/PERSONAL/fitrevolt/node_modules/mysql2/lib/connection.js:481:34)\n    at PacketParser.onPacket (/Users/I530451/Desktop/PERSONAL/fitrevolt/node_modules/mysql2/lib/connection.js:97:12)\n    at PacketParser.executeStart (/Users/I530451/Desktop/PERSONAL/fitrevolt/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/Users/I530451/Desktop/PERSONAL/fitrevolt/node_modules/mysql2/lib/connection.js:104:25)\n    at Socket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Readable.push (node:internal/streams/readable:390:5)","timestamp":"2024-02-25T15:02:35.732Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:04:21.982Z"}
+{"level":"info","message":[],"timestamp":"2024-02-25T15:04:22.984Z"}
+{"level":"error","message":"Error executing SQL query: progress is not defined","stack":"ReferenceError: progress is not defined\n    at queryToInsertNewWorkout (/Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:216:68)\n    at /Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:68:50\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-25T15:04:22.985Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:10:27.259Z"}
+{"level":"info","message":[],"timestamp":"2024-02-25T15:10:28.263Z"}
+{"level":"info","message":"Beginner","timestamp":"2024-02-25T15:10:28.263Z"}
+{"level":"error","message":"Error executing SQL query: progress is not defined","stack":"ReferenceError: progress is not defined\n    at queryToInsertNewWorkout (/Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:214:68)\n    at /Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:68:50\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-25T15:10:28.264Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:13:07.193Z"}
+{"level":"info","message":[],"timestamp":"2024-02-25T15:13:08.196Z"}
+{"level":"info","message":"Beginner","timestamp":"2024-02-25T15:13:08.196Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:13:08.197Z"}
+{"level":"error","message":"Error executing SQL query: progress is not defined","stack":"ReferenceError: progress is not defined\n    at queryToInsertNewWorkout (/Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:218:69)\n    at /Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:68:50\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-25T15:13:08.197Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:14:48.434Z"}
+{"level":"info","message":[],"timestamp":"2024-02-25T15:14:49.436Z"}
+{"level":"info","message":"Beginner","timestamp":"2024-02-25T15:14:49.436Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:14:49.436Z"}
+{"level":"error","message":"Error executing SQL query: progress is not defined","stack":"ReferenceError: progress is not defined\n    at queryToInsertNewWorkout (/Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:215:16)\n    at /Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:68:50\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-25T15:14:49.437Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:16:02.293Z"}
+{"level":"info","message":[],"timestamp":"2024-02-25T15:16:03.297Z"}
+{"level":"info","message":"Querying the Workout Table to insert New Workout: INSERT INTO workouts (username, level, category, progress) VALUES ('aakashkishan', 'Beginner', 'Cardio', 1);","timestamp":"2024-02-25T15:16:03.298Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.303Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.303Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.303Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:16:03.304Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:16:07.315Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:16:08.318Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:16:08.318Z"}
+{"level":"error","message":"Error executing SQL query: Cannot read properties of undefined (reading 'items')","stack":"TypeError: Cannot read properties of undefined (reading 'items')\n    at /Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:117:85\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-25T15:16:08.337Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:17:37.854Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:17:38.858Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.860Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T15:17:38.862Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.860Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.860Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.861Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:17:38.862Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:17:40.462Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:17:41.466Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:17:41.466Z"}
+{"level":"info","message":{},"timestamp":"2024-02-25T15:17:41.485Z"}
+{"level":"error","message":"Error executing SQL query: Cannot read properties of undefined (reading 'items')","stack":"TypeError: Cannot read properties of undefined (reading 'items')\n    at /Users/I530451/Desktop/PERSONAL/fitrevolt/routes/workouts.js:118:85\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-02-25T15:17:41.485Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:42:11.033Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:42:12.038Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.039Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:42:12.041Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:42:13.446Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:42:14.449Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:42:14.449Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:44:13.036Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:44:14.039Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.040Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.040Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:44:14.041Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:44:15.328Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:44:16.332Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:44:16.332Z"}
+{"level":"info","message":{"config":{"headers":{"Accept":"application/json","Accept-Encoding":"gzip","User-Agent":"google-api-nodejs-client/4.4.3 (gzip)","x-goog-api-client":"gdcl/4.4.3 gl-node/20.11.1 auth/6.1.6"},"method":"GET","params":{"key":"AIzaSyDy6O6D7-GEio6lmTwz6cZSNZjotAw2cvs","maxResults":1,"part":"snippet","q":"AthleanX Cardio","type":"video"},"responseType":"json","retry":true,"url":"https://www.googleapis.com/youtube/v3/search?part=snippet&q=AthleanX%20Cardio&maxResults=1&type=video&key=AIzaSyDy6O6D7-GEio6lmTwz6cZSNZjotAw2cvs","userAgentDirectives":[{"comment":"gzip","product":"google-api-nodejs-client","version":"4.4.3"}]},"data":{"etag":"hRDbxGx2JzdTVUIU6-wFyInOPww","items":[{"etag":"u_8xyqrvtAkkhzMood0Vo_hnFsk","id":{"kind":"youtube#video","videoId":"T7WsVtLIZEs"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"Build Muscle and Burn Fat: http://athleanx.com/x/cardioconfusionends Mention the word cardio and immediately you think of ...","liveBroadcastContent":"none","publishTime":"2012-10-20T21:53:06Z","publishedAt":"2012-10-20T21:53:06Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/mqdefault.jpg","width":320}},"title":"Cardio Workout Confusion - What&#39;s The Best Cardio for FAT LOSS"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"headers":{"cache-control":"private","content-encoding":"gzip","content-type":"application/json; charset=UTF-8","date":"Sun, 25 Feb 2024 15:44:16 GMT","server":"scaffolding on HTTPServer2","transfer-encoding":"chunked","vary":"Origin, X-Origin, Referer","x-content-type-options":"nosniff","x-frame-options":"SAMEORIGIN","x-xss-protection":"0"},"request":{"responseURL":"https://www.googleapis.com/youtube/v3/search?part=snippet&q=AthleanX%20Cardio&maxResults=1&type=video&key=AIzaSyDy6O6D7-GEio6lmTwz6cZSNZjotAw2cvs"},"status":200,"statusText":"OK"},"timestamp":"2024-02-25T15:44:16.787Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:48:12.777Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:48:13.780Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.781Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.782Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:48:13.783Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:48:14.888Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:48:15.890Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:48:15.890Z"}
+{"level":"info","message":{"etag":"hRDbxGx2JzdTVUIU6-wFyInOPww","items":[{"etag":"u_8xyqrvtAkkhzMood0Vo_hnFsk","id":{"kind":"youtube#video","videoId":"T7WsVtLIZEs"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"Build Muscle and Burn Fat: http://athleanx.com/x/cardioconfusionends Mention the word cardio and immediately you think of ...","liveBroadcastContent":"none","publishTime":"2012-10-20T21:53:06Z","publishedAt":"2012-10-20T21:53:06Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/mqdefault.jpg","width":320}},"title":"Cardio Workout Confusion - What&#39;s The Best Cardio for FAT LOSS"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T15:48:16.288Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:49:02.096Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:49:03.101Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.103Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.103Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.104Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:03.105Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:49:04.358Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:49:05.361Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:49:05.361Z"}
+{"level":"info","message":{"etag":"hRDbxGx2JzdTVUIU6-wFyInOPww","items":[{"etag":"u_8xyqrvtAkkhzMood0Vo_hnFsk","id":{"kind":"youtube#video","videoId":"T7WsVtLIZEs"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"Build Muscle and Burn Fat: http://athleanx.com/x/cardioconfusionends Mention the word cardio and immediately you think of ...","liveBroadcastContent":"none","publishTime":"2012-10-20T21:53:06Z","publishedAt":"2012-10-20T21:53:06Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/mqdefault.jpg","width":320}},"title":"Cardio Workout Confusion - What&#39;s The Best Cardio for FAT LOSS"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T15:49:05.921Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:49:11.883Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:49:12.883Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Beginner","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T15:49:12.883Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Beginner', category = 'Chest', progress = '2' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T15:49:12.884Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Beginner Chest workout"},{"date":"2024-02-27","title":"Beginner Legs workout"},{"date":"2024-02-28","title":"Beginner Cardio workout"},{"date":"2024-02-29","title":"Beginner Cardio workout"},{"date":"2024-03-01","title":"Beginner Arms workout"},{"date":"2024-03-04","title":"Beginner Cardio workout"},{"date":"2024-03-05","title":"Beginner Cardio workout"},{"date":"2024-03-06","title":"Beginner Arms workout"},{"date":"2024-03-07","title":"Beginner Chest workout"},{"date":"2024-03-08","title":"Beginner Legs workout"},{"date":"2024-03-11","title":"Beginner Arms workout"},{"date":"2024-03-12","title":"Beginner Chest workout"},{"date":"2024-03-13","title":"Beginner Legs workout"},{"date":"2024-03-14","title":"Beginner Cardio workout"},{"date":"2024-03-15","title":"Beginner Cardio workout"},{"date":"2024-03-18","title":"Beginner Legs workout"},{"date":"2024-03-19","title":"Beginner Cardio workout"},{"date":"2024-03-20","title":"Beginner Cardio workout"},{"date":"2024-03-21","title":"Beginner Arms workout"},{"date":"2024-03-22","title":"Beginner Chest workout"},{"date":"2024-03-25","title":"Beginner Cardio workout"}],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.885Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":["Cardio","Arms","Chest","Legs","Cardio"],"timestamp":"2024-02-25T15:49:12.886Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:28.112Z"}
+{"level":"info","message":[],"timestamp":"2024-02-25T16:20:29.115Z"}
+{"level":"info","message":"Querying the Workout Table to insert New Workout: INSERT INTO workouts (username, level, category, progress) VALUES ('aakashkishan', 'Intermediate', 'Chest', 1);","timestamp":"2024-02-25T16:20:29.115Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.118Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:29.119Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:32.271Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:33.273Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:33.273Z"}
+{"level":"info","message":{"etag":"OspIWc67SS1mFS937rzVSCc-gYg","items":[{"etag":"70lq4VRAgt798kGdej5P-mgX5wg","id":{"kind":"youtube#video","videoId":"dPb9JxFMuuE"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The hundred chest workout requires all out effort, but the results are nothing short of amazing if you follow the chest exercises and ...","liveBroadcastContent":"none","publishTime":"2022-09-19T16:49:12Z","publishedAt":"2022-09-19T16:49:12Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/mqdefault.jpg","width":320}},"title":"The 💯 Chest Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:20:33.928Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:43.981Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:44.983Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:44.983Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Back', progress = '2' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:44.983Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:20:44.989Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:20:44.991Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.990Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:44.991Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:46.515Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:47.518Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:47.518Z"}
+{"level":"info","message":{"etag":"3ChJSjyklO6KBgpIM1hRY1Kmdzc","items":[{"etag":"TE0tsl7jj4iZFlcEPqTW5EWB-aU","id":{"kind":"youtube#video","videoId":"YvKOvyiAdAI"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The hundred back workout requires all out effort, but the results are nothing short of amazing if you follow the back exercises and ...","liveBroadcastContent":"none","publishTime":"2022-12-01T19:07:59Z","publishedAt":"2022-12-01T19:07:59Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/mqdefault.jpg","width":320}},"title":"The 💯 Back Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:20:47.832Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:49.821Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:50.824Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:50.824Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Legs', progress = '3' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:50.824Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:20:50.830Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.827Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.828Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:50.830Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:52.035Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:53.038Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:53.038Z"}
+{"level":"info","message":{"etag":"Gek5V31eAcqLnlhxyyQ1SvvUm60","items":[{"etag":"wbZDAoH56WH0inBygtvCsyoe4V8","id":{"kind":"youtube#video","videoId":"sDMAPXzvjAo"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"If you want a leg workout that is going to be most effective at helping you to build bigger legs, this is the one. Continuing on in the ...","liveBroadcastContent":"none","publishTime":"2023-01-22T18:14:13Z","publishedAt":"2023-01-22T18:14:13Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/mqdefault.jpg","width":320}},"title":"The 💯 Leg Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:20:53.323Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:57.136Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:58.138Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:20:58.139Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Cardio', progress = '4' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:58.139Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:20:58.143Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.141Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.142Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:20:58.143Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:20:59.472Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:00.474Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:00.474Z"}
+{"level":"info","message":{"etag":"hRDbxGx2JzdTVUIU6-wFyInOPww","items":[{"etag":"u_8xyqrvtAkkhzMood0Vo_hnFsk","id":{"kind":"youtube#video","videoId":"T7WsVtLIZEs"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"Build Muscle and Burn Fat: http://athleanx.com/x/cardioconfusionends Mention the word cardio and immediately you think of ...","liveBroadcastContent":"none","publishTime":"2012-10-20T21:53:06Z","publishedAt":"2012-10-20T21:53:06Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/mqdefault.jpg","width":320}},"title":"Cardio Workout Confusion - What&#39;s The Best Cardio for FAT LOSS"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:21:00.767Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:03.739Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:04.741Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:04.741Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Chest', progress = '5' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:04.741Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:21:04.746Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.744Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.745Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:04.746Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:05.867Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":5,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:06.870Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":5,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:06.870Z"}
+{"level":"info","message":{"etag":"OspIWc67SS1mFS937rzVSCc-gYg","items":[{"etag":"70lq4VRAgt798kGdej5P-mgX5wg","id":{"kind":"youtube#video","videoId":"dPb9JxFMuuE"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The hundred chest workout requires all out effort, but the results are nothing short of amazing if you follow the chest exercises and ...","liveBroadcastContent":"none","publishTime":"2022-09-19T16:49:12Z","publishedAt":"2022-09-19T16:49:12Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/mqdefault.jpg","width":320}},"title":"The 💯 Chest Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:21:07.154Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:09.744Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":5,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:10.748Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":5,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:10.748Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Arms', progress = '6' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:10.748Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:21:10.752Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.752Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:21:10.780Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.752Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.752Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.777Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.777Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.777Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.777Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.777Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.777Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.778Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.778Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.778Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.778Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:10.779Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:11.922Z"}
+{"level":"info","message":[{"category":"Arms","level":"Intermediate","progress":6,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:12.926Z"}
+{"level":"info","message":[{"category":"Arms","level":"Intermediate","progress":6,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:12.926Z"}
+{"level":"info","message":{"etag":"FbGHg5G4c-3ss4pgEOxMTvdMC7Q","items":[{"etag":"GYyid3TgXqsgDjRE7RGQj5lZY_M","id":{"kind":"youtube#video","videoId":"rdaIUhFWCpg"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The one hundred arm workout requires all out effort, but the results are nothing short of amazing if you follow the biceps and ...","liveBroadcastContent":"none","publishTime":"2022-10-16T17:44:05Z","publishedAt":"2022-10-16T17:44:05Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/rdaIUhFWCpg/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/rdaIUhFWCpg/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/rdaIUhFWCpg/mqdefault.jpg","width":320}},"title":"The 💯 Arm Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:21:13.244Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:15.380Z"}
+{"level":"info","message":[{"category":"Arms","level":"Intermediate","progress":6,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:16.382Z"}
+{"level":"info","message":[{"category":"Arms","level":"Intermediate","progress":6,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:16.383Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Back', progress = '7' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:16.383Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:21:16.388Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.386Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.387Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.388Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.388Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:16.388Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:17.409Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":7,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:18.411Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":7,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:18.411Z"}
+{"level":"info","message":{"etag":"3ChJSjyklO6KBgpIM1hRY1Kmdzc","items":[{"etag":"TE0tsl7jj4iZFlcEPqTW5EWB-aU","id":{"kind":"youtube#video","videoId":"YvKOvyiAdAI"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The hundred back workout requires all out effort, but the results are nothing short of amazing if you follow the back exercises and ...","liveBroadcastContent":"none","publishTime":"2022-12-01T19:07:59Z","publishedAt":"2022-12-01T19:07:59Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/mqdefault.jpg","width":320}},"title":"The 💯 Back Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:21:18.908Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:20.704Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":7,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:21.706Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":7,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:21.706Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Legs', progress = '8' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:21.706Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:21:21.710Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.708Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.709Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.710Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.710Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:21.710Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:22.618Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":8,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:23.618Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":8,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:23.618Z"}
+{"level":"info","message":{"etag":"Gek5V31eAcqLnlhxyyQ1SvvUm60","items":[{"etag":"wbZDAoH56WH0inBygtvCsyoe4V8","id":{"kind":"youtube#video","videoId":"sDMAPXzvjAo"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"If you want a leg workout that is going to be most effective at helping you to build bigger legs, this is the one. Continuing on in the ...","liveBroadcastContent":"none","publishTime":"2023-01-22T18:14:13Z","publishedAt":"2023-01-22T18:14:13Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/mqdefault.jpg","width":320}},"title":"The 💯 Leg Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:21:23.853Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:25.334Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":8,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:26.335Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":8,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:26.335Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Cardio', progress = '9' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:26.335Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:21:26.338Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.337Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:26.338Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:27.363Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":9,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:28.364Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":9,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:28.365Z"}
+{"level":"info","message":{"etag":"hRDbxGx2JzdTVUIU6-wFyInOPww","items":[{"etag":"u_8xyqrvtAkkhzMood0Vo_hnFsk","id":{"kind":"youtube#video","videoId":"T7WsVtLIZEs"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"Build Muscle and Burn Fat: http://athleanx.com/x/cardioconfusionends Mention the word cardio and immediately you think of ...","liveBroadcastContent":"none","publishTime":"2012-10-20T21:53:06Z","publishedAt":"2012-10-20T21:53:06Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/mqdefault.jpg","width":320}},"title":"Cardio Workout Confusion - What&#39;s The Best Cardio for FAT LOSS"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:21:28.618Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:30.622Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":9,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:31.623Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":9,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:31.624Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Chest', progress = '10' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:31.624Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:21:31.640Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.629Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.630Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.640Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.640Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:21:31.640Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:21:32.746Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":10,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:33.749Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":10,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:21:33.749Z"}
+{"level":"info","message":{"etag":"OspIWc67SS1mFS937rzVSCc-gYg","items":[{"etag":"70lq4VRAgt798kGdej5P-mgX5wg","id":{"kind":"youtube#video","videoId":"dPb9JxFMuuE"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The hundred chest workout requires all out effort, but the results are nothing short of amazing if you follow the chest exercises and ...","liveBroadcastContent":"none","publishTime":"2022-09-19T16:49:12Z","publishedAt":"2022-09-19T16:49:12Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/mqdefault.jpg","width":320}},"title":"The 💯 Chest Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:21:34.037Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:32:52.600Z"}
+{"level":"info","message":[],"timestamp":"2024-02-25T16:32:53.605Z"}
+{"level":"info","message":"Querying the Workout Table to insert New Workout: INSERT INTO workouts (username, level, category, progress) VALUES ('aakashkishan', 'Intermediate', 'Chest', 1);","timestamp":"2024-02-25T16:32:53.606Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.610Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:32:53.612Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.611Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.612Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:32:53.612Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:33:43.763Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:33:44.765Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:33:44.765Z"}
+{"level":"info","message":{"etag":"OspIWc67SS1mFS937rzVSCc-gYg","items":[{"etag":"70lq4VRAgt798kGdej5P-mgX5wg","id":{"kind":"youtube#video","videoId":"dPb9JxFMuuE"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The hundred chest workout requires all out effort, but the results are nothing short of amazing if you follow the chest exercises and ...","liveBroadcastContent":"none","publishTime":"2022-09-19T16:49:12Z","publishedAt":"2022-09-19T16:49:12Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/dPb9JxFMuuE/mqdefault.jpg","width":320}},"title":"The 💯 Chest Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:33:45.236Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:33:59.486Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:00.489Z"}
+{"level":"info","message":[{"category":"Chest","level":"Intermediate","progress":1,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:00.490Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Back', progress = '2' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:00.490Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:34:00.499Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.497Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.498Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.499Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.499Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:00.499Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:06.148Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:07.149Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:07.149Z"}
+{"level":"info","message":{"etag":"3ChJSjyklO6KBgpIM1hRY1Kmdzc","items":[{"etag":"TE0tsl7jj4iZFlcEPqTW5EWB-aU","id":{"kind":"youtube#video","videoId":"YvKOvyiAdAI"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"The hundred back workout requires all out effort, but the results are nothing short of amazing if you follow the back exercises and ...","liveBroadcastContent":"none","publishTime":"2022-12-01T19:07:59Z","publishedAt":"2022-12-01T19:07:59Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/YvKOvyiAdAI/mqdefault.jpg","width":320}},"title":"The 💯 Back Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:34:07.458Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:11.951Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:12.952Z"}
+{"level":"info","message":[{"category":"Back","level":"Intermediate","progress":2,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:12.952Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Legs', progress = '3' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:12.952Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:34:12.954Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:34:12.978Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.955Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.966Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.978Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.978Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:12.978Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:15.090Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:16.090Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:16.091Z"}
+{"level":"info","message":{"etag":"Gek5V31eAcqLnlhxyyQ1SvvUm60","items":[{"etag":"wbZDAoH56WH0inBygtvCsyoe4V8","id":{"kind":"youtube#video","videoId":"sDMAPXzvjAo"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"If you want a leg workout that is going to be most effective at helping you to build bigger legs, this is the one. Continuing on in the ...","liveBroadcastContent":"none","publishTime":"2023-01-22T18:14:13Z","publishedAt":"2023-01-22T18:14:13Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/sDMAPXzvjAo/mqdefault.jpg","width":320}},"title":"The 💯 Leg Workout (MOST EFFECTIVE!)"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:34:16.351Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:19.034Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:20.035Z"}
+{"level":"info","message":[{"category":"Legs","level":"Intermediate","progress":3,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:20.035Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Cardio', progress = '4' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:20.035Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:34:20.037Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.037Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:34:20.039Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.037Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.038Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:20.039Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:21.000Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:22.001Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:22.001Z"}
+{"level":"info","message":{"etag":"hRDbxGx2JzdTVUIU6-wFyInOPww","items":[{"etag":"u_8xyqrvtAkkhzMood0Vo_hnFsk","id":{"kind":"youtube#video","videoId":"T7WsVtLIZEs"},"kind":"youtube#searchResult","snippet":{"channelId":"UCe0TLA0EsQbE-MjuHXevj2A","channelTitle":"ATHLEAN-X™","description":"Build Muscle and Burn Fat: http://athleanx.com/x/cardioconfusionends Mention the word cardio and immediately you think of ...","liveBroadcastContent":"none","publishTime":"2012-10-20T21:53:06Z","publishedAt":"2012-10-20T21:53:06Z","thumbnails":{"default":{"height":90,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/default.jpg","width":120},"high":{"height":360,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/hqdefault.jpg","width":480},"medium":{"height":180,"url":"https://i.ytimg.com/vi/T7WsVtLIZEs/mqdefault.jpg","width":320}},"title":"Cardio Workout Confusion - What&#39;s The Best Cardio for FAT LOSS"}}],"kind":"youtube#searchListResponse","nextPageToken":"CAEQAA","pageInfo":{"resultsPerPage":1,"totalResults":1000000},"regionCode":"US"},"timestamp":"2024-02-25T16:34:22.301Z"}
+{"level":"info","message":"Querying the Workouts table to get User Workout entry: SELECT * FROM workouts WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:26.443Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:27.444Z"}
+{"level":"info","message":[{"category":"Cardio","level":"Intermediate","progress":4,"username":"aakashkishan"}],"timestamp":"2024-02-25T16:34:27.444Z"}
+{"level":"info","message":"Querying the Workouts Table to update Workout progress: UPDATE workouts SET level = 'Intermediate', category = 'Chest', progress = '5' WHERE username = 'aakashkishan';","timestamp":"2024-02-25T16:34:27.444Z"}
+{"level":"info","message":{"affectedRows":1,"changedRows":1,"fieldCount":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","insertId":0,"serverStatus":2,"warningStatus":0},"timestamp":"2024-02-25T16:34:27.450Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.450Z"}
+{"level":"info","message":[{"date":"2024-02-26","title":"Intermediate Back workout"},{"date":"2024-02-27","title":"Intermediate Legs workout"},{"date":"2024-02-28","title":"Intermediate Cardio workout"},{"date":"2024-02-29","title":"Intermediate Chest workout"},{"date":"2024-03-01","title":"Intermediate Arms workout"},{"date":"2024-03-04","title":"Intermediate Cardio workout"},{"date":"2024-03-05","title":"Intermediate Chest workout"},{"date":"2024-03-06","title":"Intermediate Arms workout"},{"date":"2024-03-07","title":"Intermediate Back workout"},{"date":"2024-03-08","title":"Intermediate Legs workout"},{"date":"2024-03-11","title":"Intermediate Arms workout"},{"date":"2024-03-12","title":"Intermediate Back workout"},{"date":"2024-03-13","title":"Intermediate Legs workout"},{"date":"2024-03-14","title":"Intermediate Cardio workout"},{"date":"2024-03-15","title":"Intermediate Chest workout"},{"date":"2024-03-18","title":"Intermediate Legs workout"},{"date":"2024-03-19","title":"Intermediate Cardio workout"},{"date":"2024-03-20","title":"Intermediate Chest workout"},{"date":"2024-03-21","title":"Intermediate Arms workout"},{"date":"2024-03-22","title":"Intermediate Back workout"},{"date":"2024-03-25","title":"Intermediate Chest workout"}],"timestamp":"2024-02-25T16:34:27.454Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.450Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.450Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.452Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.452Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.452Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.453Z"}
+{"level":"info","message":["Chest","Arms","Back","Legs","Cardio"],"timestamp":"2024-02-25T16:34:27.454Z"}

@@ -1,0 +1,49 @@
+doctype html
+html
+    head
+        title FitRevolt - Login
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+        script(src="/javascripts/dom.js")
+        script(src='https://code.jquery.com/jquery-3.3.1.slim.min.js')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js')
+        script(src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js')
+    body
+        .container.mt-5
+            .row.justify-content-center
+                .col-6
+                    .card.bg-greyish
+                        .card-body
+                            .tab-content
+                                #beginner.tab-pane.fade(class=(level === 'Beginner' ? 'show active' : ''))(role='tabpanel')
+                                    h2 Beginner Workout Plan
+                                    img(src='/images/beginner.jpeg', alt='Beginner Workout Image', width='500', height='500')
+                                    div.button-container
+                                        form(action='/workouts/schedule', method='post')
+                                            input(type='hidden', name='level', value='Beginner')
+                                            button(type="submit", class="btn btn-custom") Schedule Workout
+                                #intermediate.tab-pane.fade(class=(level === 'Intermediate' ? 'show active' : ''))(role='tabpanel')
+                                    h2 Intermediate Workout Plan
+                                    img(src='/images/intermediate.jpg', alt='Intermediate Workout Image', width='200', height='300')
+                                    div.button-container
+                                        form(action='/workouts/schedule', method='post')
+                                            input(type='hidden', name='level', value='Intermediate')
+                                            button(type="submit", class="btn btn-custom") Schedule Workout
+                                #advanced.tab-pane.fade(class=(level === 'Advanced' ? 'show active' : ''))(role='tabpanel')
+                                    h2 Advanced Workout Plan
+                                    img(src='/images/advanced.jpeg', alt='Advanced Workout Image', width='200', height='300')
+                                    div.button-container
+                                        form(action='/workouts/schedule', method='post')
+                                            input(type='hidden', name='level', value='Advanced')
+                                            button(type="submit", class="btn btn-custom") Schedule Workout
+                            footer
+                                ul.nav.nav-tabs(role='tablist')
+                                    li.nav-item
+                                        a.nav-link(href='#beginner', data-toggle='tab', role='tab', class=(level === 'Beginner' ? 'active' : '')) Beginner
+                                    li.nav-item
+                                        a.nav-link(href='#intermediate', data-toggle='tab', role='tab', class=(level === 'Intermediate' ? 'active' : '')) Intermediate
+                                    li.nav-item
+                                        a.nav-link(href='#advanced', data-toggle='tab', role='tab', class=(level === 'Advanced' ? 'active' : '')) Advanced
+        footer.text-center.mt-5.btn-footer
+            p.btn-impact
+                a(href="/workouts/profile") FitRevolt

@@ -1,0 +1,45 @@
+doctype html
+html
+    head
+        title FitRevolt - Login
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+    body
+        .container.mt-5
+            .row.justify-content-center
+                .col-6
+                    .card.bg-greyish
+                        .card-body
+                            h5.card-title User Input - BodyType
+                                form(action='/inputs/body_type', method='POST')
+                                    .row
+                                        .col-sm
+                                            label(for='ectomorph')
+                                                img(src='/images/ectomorph.png', alt='Ectomorph', width='200', height='300')
+                                                div
+                                                    input(type='radio', id='ectomorph', name='bodyType', value='Ectomorph')
+                                                    | Ectomorph
+                                        .col-sm
+                                            label(for='mesomorph')
+                                                img(src='/images/mesomorph.png', alt='Mesomorph', width='200', height='300')
+                                                div
+                                                    input(type='radio', id='mesomorph', name='bodyType', value='Mesomorph')
+                                                    | Mesomorph
+                                        .col-sm
+                                            label(for='endomorph')
+                                                img(src='/images/endomorph.png', alt='Endomorph', width='200', height='300')
+                                                div
+                                                    input(type='radio', id='endomorph', name='bodyType', value='Endomorph')
+                                                    | Endomorph
+                                    button.btn.btn-custom(type='submit') Submit
+
+                                // Hidden alert
+                                if showAlert
+                                    .alert.alert-success.alert-dismissible.fade.show(role="alert")
+                                        | #{alertMessage}
+                                        button.close(type="button", data-bs-dismiss="alert", aria-label="Close")
+                                            span(aria-hidden="true") &times;
+
+        footer.text-center.mt-5.btn-footer
+            p.btn-impact
+                a(href="/workouts/profile") FitRevolt
